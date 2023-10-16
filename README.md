@@ -26,6 +26,5 @@ Create a legend that will provide context for your map data.
 Your visualization should look something like the preceding map.
 
 ![image](https://github.com/JacobMoen/leaflet-challenge/assets/134341713/d4c3897a-d180-4af7-94c5-f23aa26c86f4)
-
 ![image](https://github.com/JacobMoen/leaflet-challenge/assets/134341713/a461cff2-a672-4cd0-9869-3d6f76194348)
 
