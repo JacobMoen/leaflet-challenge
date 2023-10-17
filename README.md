@@ -23,6 +23,7 @@ Include popups that provide additional information about the earthquake when its
 
 Create a legend that will provide context for your map data.
 
-![image](https://github.com/JacobMoen/leaflet-challenge/assets/134341713/d4c3897a-d180-4af7-94c5-f23aa26c86f4)
-![image](https://github.com/JacobMoen/leaflet-challenge/assets/134341713/a461cff2-a672-4cd0-9869-3d6f76194348)
+![image](https://github.com/JacobMoen/leaflet-challenge/assets/134341713/59e658c1-5034-4304-ad94-a441615ced60)
+![image](https://github.com/JacobMoen/leaflet-challenge/assets/134341713/499712a6-0cba-477f-bc87-a6387687866e)
+
 
